@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ythiss/MindMapper/issues"
   },
-  "homepage": "https://github.com/Ythiss/MindMapper#readme"
+  "homepage": "https://github.com/Ythiss/MindMapper#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
