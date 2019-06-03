@@ -1,0 +1,19 @@
+{
+  "name": "mindmapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ythiss/MindMapper.git"
+  },
+  "author": "Amaïa Hiribarne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ythiss/MindMapper/issues"
+  },
+  "homepage": "https://github.com/Ythiss/MindMapper#readme"
+}
