@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "client": "npm run start --prefix client"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/Ythiss/MindMapper#readme",
   "dependencies": {
+    "create-react-app": "^3.0.1",
     "express": "^4.17.1"
   }
 }
